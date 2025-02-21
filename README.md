@@ -6,7 +6,11 @@ This project analyzes survey responses from data professionals to uncover indust
 
 
 ## Objectives
--- Explore job satisfaction levels among data professionals
---Analyze the most widely used tools in the industry
---Identify trends in salaries based on experience and job roles
---Understand career growth patterns and industry preferences
+  -- Explore job satisfaction levels among data professionals
+  
+  --Analyze the most widely used tools in the industry
+  
+  --Identify trends in salaries based on experience and job roles
+  
+  --Understand career growth patterns and industry preferences
+  
