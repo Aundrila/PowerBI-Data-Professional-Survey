@@ -17,3 +17,10 @@ This project analyzes survey responses from data professionals to uncover indust
 - **Power BI** - Data visualization & dashboard creation
 - **DAX** - Data Analysis Expressions
 - **Power Query** - Data transformation & cleaning
+
+## Dashboard Highlights
+- **Salary Trends:** Compare salaries across roles, experience levels, and industries
+- **Job Satisfaction:** Analyze how satisfied professionals are in different roles
+- **Popular Tools:** Visualize which tools are most commonly used in the industry
+- **Career Path Analysis:** Identify trends in career progression
+
