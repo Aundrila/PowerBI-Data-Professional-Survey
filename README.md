@@ -24,3 +24,8 @@ This project analyzes survey responses from data professionals to uncover indust
 - **Popular Tools:** Visualize which tools are most commonly used in the industry
 - **Career Path Analysis:** Identify trends in career progression
 
+## Key Insights
+- Senior professionals report higher job satisfaction compared to entry-level roles.
+- Python and SQL are the most commonly used tools, followed by Power BI.
+- Data analysts have a strong transition path toward data science roles.
+
