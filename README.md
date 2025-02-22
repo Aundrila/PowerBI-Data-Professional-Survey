@@ -14,3 +14,6 @@ This project analyzes survey responses from data professionals to uncover indust
   - Understand career growth patterns and industry preferences
   
 ## Tools & Technologies
+- **Power BI** - Data visualization & dashboard creation
+- **DAX** - Data Analysis Expressions
+- **Power Query** - Data transformation & cleaning
